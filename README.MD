@@ -14,7 +14,8 @@ just are files from the functional prototype
 - listadovideos.html
 - video.html:
 
-[Texto en español aquí](README_ES.MD)
+> [!NOTE]
+[Texto en español aquí](README_ES.md)
 
 ![](img/logo.svg)
 ---

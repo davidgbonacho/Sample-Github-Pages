@@ -13,6 +13,7 @@ Solo son los archivos del prototipo funcional:
 - `listadovideos.html`  
 - `video.html`  
 
+> [!NOTE]
 [Text in English here](README.MD)
 
 ![](img/logo.svg)
